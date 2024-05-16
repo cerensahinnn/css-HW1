@@ -1,0 +1,17 @@
+body {
+    background-color: green;
+    margin: auto;
+}
+
+.globalnav-menu {
+    margin: auto;
+    height: 200px;
+    background-color: yellow;
+}
+
+.nav-bar {
+    background-color: white;
+    margin: auto;
+    padding: auto;
+    float:left;
+}
